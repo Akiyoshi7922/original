@@ -1,0 +1,2 @@
+class Oriapp < ApplicationRecord
+end
